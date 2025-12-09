@@ -1,0 +1,15 @@
+polars
+geopandas
+matplotlib
+plotly
+nbformat
+pyarrow
+numpy>=2.1.0
+geopy
+statsmodels
+pymc >= 5.10.0
+scikit-learn
+ipywidgets
+arviz >= 0.13.0
+esda
+seaborn
